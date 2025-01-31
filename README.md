@@ -1,13 +1,27 @@
+# 💫 About Me:
+Hi there! 👋 I'm Anant Saxena<br>🚀 Software Developer | MERN Stack | AI & Data Enthusiast<br><br>🔭 I’m currently working on<br><br>My final-year research project on unsupervised clustering for non-geometrical shape detection<br>Enhancing my full-stack development skills with advanced React, Node.js, and MongoDB<br>Exploring AI & Data Science, focusing on computer vision & clustering algorithms<br>👯 I’m looking to collaborate on<br><br>Open-source projects related to MERN stack, AI, or data science<br>Innovative web applications and machine learning projects<br>Research in computer vision, clustering, and pattern recognition<br>🤝 I’m looking for help with<br><br>Understanding advanced AI/ML algorithms and their real-world applications<br>Connecting with researchers and developers interested in image processing<br>Best practices for optimizing backend performance in full-stack applications<br>🌱 I’m currently learning<br><br>Deep learning & AI frameworks like TensorFlow & PyTorch<br>Advanced data structures and algorithms for competitive programming<br>Cloud computing & DevOps to scale applications effectively<br>💬 Ask me about<br><br>MERN Stack Development (MongoDB, Express.js, React.js, Node.js)<br>Data structures, algorithms, and problem-solving<br>Building responsive web applications with modern UI/UX principles<br>My experience as a C++ Teaching Assistant at Coding Ninjas<br>⚡ Fun fact<br><br>I built a Snake Game in Python using OOP concepts! 🐍<br>I enjoy playing video games 🎮 and working on cool side projects in my free time<br>I love exploring new tech stacks and experimenting with algorithms
 
 
-- 👋 Hi, I’m @AnantSaxena11
-- 👀 I’m interested in web development, particularly using React.js and the MERN stack.
-- 🌱 I’m currently learning Express.js, MongoDB, and Node.js to become proficient in the full MERN stack.
-- 💞️ I’m looking to collaborate on open-source projects and web development initiatives.
-- 📫 How to reach me: You can reach me through my website at [anantsaxena.me](http://anantsaxena.me).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’ve developed a full-stack website called Tomato, designed a responsive magazine page using React.js, and created a snake game using Python and OOP!
-<!---
-AnantSaxena11/AnantSaxena11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anantsax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anantsaxena1110) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/No_Temperature_9986F) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/11_Anant_) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnantSaxena11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnantSaxena11&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnantSaxena11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnantSaxena11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnantSaxena11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AnantSaxena11&icon=4&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
