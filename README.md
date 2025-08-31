@@ -8,11 +8,11 @@
 
 A passionate **Full-stack Developer** specializing in building modern and scalable web applications. My journey is all about turning ideas into elegant, functional code. I'm currently focused on sharpening my skills with the **MERN stack**, and always eager to learn new technologies that can help me build better, faster, and more robust systems.
 
-<div align="center">
-  <a href="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph.svg" target="_blank">
-    <img alt="Anant Saxena's Contribution Graph" src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph.svg">
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
