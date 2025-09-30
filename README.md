@@ -72,7 +72,7 @@ Here's a glimpse of my tech stack and the tools I'm familiar with:
 
 ---
 
-### 📈 My GitHub Stats
+### 📈 My GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantSaxena11&theme=onedark&hide_border=true" alt="Anant's GitHub streak" />
