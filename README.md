@@ -4,7 +4,7 @@
 
 ---
 
-### 👋 Hello there, I'm Anant Saxena 22 Years Old
+### 🙏 Hello there, I'm Anant Saxena 22 Years Old
 
 A passionate **Full-stack Developer** specializing in building modern and scalable web applications. My journey is all about turning ideas into elegant, functional code. I'm currently focused on sharpening my skills with the **MERN stack**, and always eager to learn new technologies that can help me build better, faster, and more robust systems.
 
