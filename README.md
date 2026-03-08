@@ -82,6 +82,80 @@ Here's a glimpse of my tech stack and the tools I'm familiar with:
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnantSaxena11&layout=compact&theme=tokyonight&hide_border=true)
 
+---
+
+### 📈 GitHub Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics.svg" alt="GitHub Metrics" />
+</div>
+
+### 📅 Contribution Calendar (Full Year)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-isocalendar.svg" alt="Isometric Contribution Calendar" />
+</div>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-achievements.svg" alt="GitHub Achievements" />
+</div>
+
+### 🕐 Coding Habits
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-habits.svg" alt="Coding Habits" />
+</div>
+
+### 🌟 Notable Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-notable.svg" alt="Notable Contributions" />
+</div>
+
+### 📌 Pinned Repositories
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-repositories.svg" alt="Pinned Repositories" />
+</div>
+
+### 👥 Followers & Following
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-people.svg" alt="Followers and Following" />
+</div>
+
+### ⭐ Stargazers
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-stargazers.svg" alt="Stargazers" />
+</div>
+
+### 🔢 Lines of Code Changed
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-lines.svg" alt="Lines of Code" />
+</div>
+
+### ⚡ Recent Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-activity.svg" alt="Recent Activity" />
+</div>
+
+### 🔄 Issues & PRs Follow-up
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-followup.svg" alt="Issues and PRs Followup" />
+</div>
+
+### 🏷️ GitHub Topics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-topics.svg" alt="GitHub Topics" />
+</div>
+
 
 ### 🤝 Let's Connect!
 
