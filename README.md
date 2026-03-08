@@ -95,3 +95,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
   </a>
 </div>
+
+### 📊 Contribution Analytics
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnantSaxena11&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
