@@ -8,11 +8,95 @@
 
 A passionate **Full-stack Developer** specializing in building modern and scalable web applications. My journey is all about turning ideas into elegant, functional code. I'm currently focused on sharpening my skills with the **MERN stack**, and always eager to learn new technologies that can help me build better, faster, and more robust systems.
 
+---
+
+### 📊 GitHub Stats & Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics.svg" alt="GitHub Metrics" />
+</div>
+
+---
+
+### 🕹️ Pac-Man Contribution Graph
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+### 📅 Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-isocalendar.svg" alt="Isometric Contribution Calendar" />
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnantSaxena11&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AnantSaxena11&theme=dark&hide_border=false" />
+</div>
+
+---
+
+### 🌟 Notable Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-notable.svg" alt="Notable Contributions" />
+</div>
+
+---
+
+### 📌 Pinned Repositories
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-repositories.svg" alt="Pinned Repositories" />
+</div>
+
+---
+
+### 👥 Followers & Following
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-people.svg" alt="Followers and Following" />
+</div>
+
+---
+
+### ⭐ Stargazers
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-stargazers.svg" alt="Stargazers" />
+</div>
+
+---
+
+### ⚡ Recent Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-activity.svg" alt="Recent Activity" />
+</div>
+
+---
+
+### 🔄 Issues & PRs Follow-up
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-followup.svg" alt="Issues and PRs Followup" />
+</div>
 
 ---
 
@@ -72,79 +156,6 @@ Here's a glimpse of my tech stack and the tools I'm familiar with:
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=AnantSaxena11&theme=dark&hide_border=false" />
-
-</div>
-
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnantSaxena11&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 📈 GitHub Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics.svg" alt="GitHub Metrics" />
-</div>
-
-### 📅 Contribution Calendar (Full Year)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-isocalendar.svg" alt="Isometric Contribution Calendar" />
-</div>
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnantSaxena11&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-### 🌟 Notable Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-notable.svg" alt="Notable Contributions" />
-</div>
-
-### 📌 Pinned Repositories
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-repositories.svg" alt="Pinned Repositories" />
-</div>
-
-### 👥 Followers & Following
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-people.svg" alt="Followers and Following" />
-</div>
-
-### ⭐ Stargazers
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-stargazers.svg" alt="Stargazers" />
-</div>
-
-### ⚡ Recent Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-activity.svg" alt="Recent Activity" />
-</div>
-
-### 🔄 Issues & PRs Follow-up
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-followup.svg" alt="Issues and PRs Followup" />
-</div>
-
-### 🏷️ GitHub Topics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-topics.svg" alt="GitHub Topics" />
-</div>
-
-
 ### 🤝 Let's Connect!
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
@@ -160,4 +171,3 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
   </a>
 </div>
-
