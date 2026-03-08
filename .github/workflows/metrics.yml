@@ -47,40 +47,6 @@ jobs:
           committer_branch: main
           committer_message: "chore: update isocalendar metrics [skip ci]"
 
-      - name: Generate GitHub achievements
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: AnantSaxena11
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: no
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 0
-          output_action: commit
-          filename: metrics-achievements.svg
-          committer_branch: main
-          committer_message: "chore: update achievements metrics [skip ci]"
-
-      - name: Generate coding habits
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: AnantSaxena11
-          base: ""
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          config_timezone: Asia/Kolkata
-          output_action: commit
-          filename: metrics-habits.svg
-          committer_branch: main
-          committer_message: "chore: update habits metrics [skip ci]"
-
       - name: Generate notable contributions
         uses: lowlighter/metrics@v3.34
         with:
@@ -88,7 +54,6 @@ jobs:
           user: AnantSaxena11
           base: ""
           plugin_notable: yes
-          plugin_notable_filter: stars:>10
           plugin_notable_repositories: yes
           output_action: commit
           filename: metrics-notable.svg
@@ -141,19 +106,6 @@ jobs:
           filename: metrics-stargazers.svg
           committer_branch: main
           committer_message: "chore: update stargazers metrics [skip ci]"
-
-      - name: Generate lines of code changed
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: AnantSaxena11
-          base: ""
-          plugin_lines: yes
-          plugin_lines_skipped: ""
-          output_action: commit
-          filename: metrics-lines.svg
-          committer_branch: main
-          committer_message: "chore: update lines metrics [skip ci]"
 
       - name: Generate recent activity
         uses: lowlighter/metrics@v3.34

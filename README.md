@@ -99,13 +99,7 @@ Here's a glimpse of my tech stack and the tools I'm familiar with:
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-achievements.svg" alt="GitHub Achievements" />
-</div>
-
-### 🕐 Coding Habits
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-habits.svg" alt="Coding Habits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnantSaxena11&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ### 🌟 Notable Contributions
@@ -130,12 +124,6 @@ Here's a glimpse of my tech stack and the tools I'm familiar with:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-stargazers.svg" alt="Stargazers" />
-</div>
-
-### 🔢 Lines of Code Changed
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-lines.svg" alt="Lines of Code" />
 </div>
 
 ### ⚡ Recent Activity
