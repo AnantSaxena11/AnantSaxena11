@@ -209,3 +209,7 @@ Backend Engineer • Systems Developer • Problem Solver
 ⭐ *Engineering reliable systems and writing scalable code*
 
 </div>
+
+---
+
+> **Setting up this profile?** See [SETUP.md](SETUP.md) for instructions on adding the required `METRICS_TOKEN` PAT secret so the GitHub Metrics workflow runs correctly.
