@@ -1,166 +1,158 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/AnantSaxena11/AnantSaxena11/github-header-banner.png"/>
+
+<img src="https://cdn.jsdelivr.net/gh/AnantSaxena11/AnantSaxena11/github-header-banner.png"/>
+
 </div>
 
 ---
 
-## 👋 Hello, I'm Anant Saxena
+<div align="center">
 
-Full-stack developer building modern and scalable web applications.  
-Focused on **MERN stack, system design, and high-performance code**.
+# 👋 Anant Saxena
+
+Backend Engineer • Systems Developer • Problem Solver
+
+</div>
 
 ---
 
-# 🧩 Developer Dashboard
+# 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=AnantSaxena11&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 📊 GitHub Metrics
-<img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics.svg"/>
+• Software Engineer working on **safety-critical automotive systems**  
+• Improved **static analysis quality by 40-60% across AUTOSAR modules**  
+• Increased **unit test coverage from ~23% to ~88%**  
+• Focused on **clean architecture, reliability and scalable backend systems**  
+• Strong foundation in **DSA, OOP, and system design**
 
-</td>
-<td width="50%">
+---
 
-### 🕹 Pacman Contribution
+# 🕹 Contribution Activity
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph.svg">
   <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/output/pacman-contribution-graph.svg">
 </picture>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+# 📊 GitHub Metrics Dashboard
 
-### 📅 Contribution Calendar
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics.svg"/>
+
 <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-isocalendar.svg"/>
 
-</td>
-<td width="50%">
+</div>
 
-### 🏆 GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=AnantSaxena11&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+---
 
-</td>
-</tr>
+# 🔥 GitHub Streak
 
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🔥 GitHub Streak
-<img src="https://nirzak-streak-stats.vercel.app/?user=AnantSaxena11&theme=dark&hide_border=false"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=AnantSaxena11&theme=tokyonight"/>
 
-</td>
-<td width="50%">
+</div>
 
-### ⭐ Notable Contributions
-<img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-notable.svg"/>
+---
 
-</td>
-</tr>
+# 🏆 GitHub Achievements
 
-<tr>
-<td width="50%">
+<div align="center">
 
-### 📌 Repositories
-<img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-repositories.svg"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
 
-</td>
-<td width="50%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
 
-### 👥 Community
-<img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-people.svg"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td width="50%">
+<div align="center">
 
-### ⭐ Stargazers
-<img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-stargazers.svg"/>
+**Pull Shark ×3** • **YOLO** • **Quickdraw**
 
-</td>
-<td width="50%">
-
-### ⚡ Activity
-<img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-activity.svg"/>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-### 🔄 Issues & PR Followup
-<img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-followup.svg"/>
-
-</td>
-</tr>
-
-</table>
+</div>
 
 ---
 
 # 💻 Tech Stack
 
-<table>
-<tr>
-<td align="center">
+### Languages
 
-### Frontend
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
 
-</td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
 
-<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60"/>
+
+</div>
+
+---
 
 ### Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<div align="center">
 
-</td>
-</tr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"/>
 
-<tr>
-<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60"/>
 
-### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
 
-</td>
+</div>
 
-<td align="center">
+---
 
 ### Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
+<div align="center">
 
-</td>
-</tr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
 
-</table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnantSaxena11&repo=Parking-Lot-System&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnantSaxena11&repo=Restaurant-Management-System&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnantSaxena11&theme=tokyo-night"/>
+
+</div>
 
 ---
 
@@ -168,16 +160,30 @@ Focused on **MERN stack, system design, and high-performance code**.
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:anantsaxena5454@gmail.com">
+
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/anantsaxena1110/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
-<a href="https://x.com/TheCrafterBit">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://github.com/AnantSaxena11">
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *Engineering reliable systems and writing scalable code*
 
 </div>
