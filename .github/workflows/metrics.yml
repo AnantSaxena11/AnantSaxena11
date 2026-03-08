@@ -13,9 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      LANGUAGES_IGNORED: html, css, tex, less, dockerfile, makefile, shell
     steps:
       - name: Generate GitHub metrics
         uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
@@ -24,16 +27,17 @@ jobs:
           config_timezone: Asia/Kolkata
           repositories_affiliations: owner, collaborator, organization_member
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, shell
+          plugin_languages_ignored: ${{ env.LANGUAGES_IGNORED }}
           plugin_languages_limit: 8
           plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_indepth: yes
+          plugin_languages_colors: github
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_habits_charts: no
           plugin_habits_trim: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -48,6 +52,7 @@ jobs:
 
       - name: Generate half-year isometric calendar
         uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
@@ -62,6 +67,7 @@ jobs:
 
       - name: Generate notable contributions
         uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
@@ -75,6 +81,7 @@ jobs:
 
       - name: Generate pinned repositories
         uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
@@ -91,6 +98,7 @@ jobs:
 
       - name: Generate followers and following
         uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
@@ -107,6 +115,7 @@ jobs:
 
       - name: Generate stargazers stats
         uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
@@ -122,6 +131,7 @@ jobs:
 
       - name: Generate recent activity
         uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
@@ -138,13 +148,13 @@ jobs:
 
       - name: Generate issues and PRs followup
         uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
           base: ""
           plugin_followup: yes
           plugin_followup_sections: user
-          plugin_followup_indepth: yes
           output_action: commit
           filename: metrics-followup.svg
           committer_branch: main
@@ -152,6 +162,7 @@ jobs:
 
       - name: Generate GitHub topics
         uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
@@ -164,3 +175,25 @@ jobs:
           filename: metrics-topics.svg
           committer_branch: main
           committer_message: "chore: update topics metrics [skip ci]"
+
+      - name: Generate language stats with colors
+        uses: lowlighter/metrics@v3.34
+        continue-on-error: true
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AnantSaxena11
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: ${{ env.LANGUAGES_IGNORED }}
+          plugin_languages_limit: 8
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_indepth: yes
+          plugin_languages_colors: github
+          plugin_languages_sections: most-used
+          repositories_affiliations: owner, collaborator, organization_member
+          config_timezone: Asia/Kolkata
+          output_action: commit
+          filename: metrics-languages.svg
+          committer_branch: main
+          committer_message: "chore: update languages metrics [skip ci]"

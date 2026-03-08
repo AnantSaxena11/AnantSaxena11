@@ -50,6 +50,28 @@ Backend Engineer • Systems Developer • Problem Solver
 
 ---
 
+# 🌐 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantSaxena11&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,tex,less,dockerfile,makefile,shell"/>
+
+<img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-languages.svg"/>
+
+</div>
+
+---
+
+# 📋 Issues & Pull Requests Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-followup.svg"/>
+
+</div>
+
+---
+
 # 🔥 GitHub Streak
 
 <div align="center">
