@@ -17,11 +17,12 @@ jobs:
       - name: Generate GitHub metrics
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          repositories_affiliations: owner, collaborator, organization_member
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, shell
@@ -48,7 +49,7 @@ jobs:
       - name: Generate half-year isometric calendar
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
           base: ""
           plugin_isocalendar: yes
@@ -62,7 +63,7 @@ jobs:
       - name: Generate notable contributions
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
           base: ""
           plugin_notable: yes
@@ -75,7 +76,7 @@ jobs:
       - name: Generate pinned repositories
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
           base: ""
           plugin_repositories: yes
@@ -91,7 +92,7 @@ jobs:
       - name: Generate followers and following
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
           base: ""
           plugin_people: yes
@@ -107,7 +108,7 @@ jobs:
       - name: Generate stargazers stats
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
           base: ""
           plugin_stargazers: yes
@@ -122,7 +123,7 @@ jobs:
       - name: Generate recent activity
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
           base: ""
           plugin_activity: yes
@@ -138,11 +139,11 @@ jobs:
       - name: Generate issues and PRs followup
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
           base: ""
           plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: user
           plugin_followup_indepth: yes
           output_action: commit
           filename: metrics-followup.svg
@@ -152,7 +153,7 @@ jobs:
       - name: Generate GitHub topics
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: AnantSaxena11
           base: ""
           plugin_topics: yes
