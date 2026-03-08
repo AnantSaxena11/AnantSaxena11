@@ -79,6 +79,9 @@ Here's a glimpse of my tech stack and the tools I'm familiar with:
 
 </div>
 
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnantSaxena11&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ### 🤝 Let's Connect!
 
@@ -96,6 +99,3 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
   </a>
 </div>
 
-### 📊 Contribution Analytics
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnantSaxena11&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
