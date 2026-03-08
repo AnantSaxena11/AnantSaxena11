@@ -82,6 +82,20 @@ Here's a glimpse of my tech stack and the tools I'm familiar with:
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnantSaxena11&layout=compact&theme=tokyonight&hide_border=true)
 
+---
+
+### 📈 GitHub Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics.svg" alt="GitHub Metrics" />
+</div>
+
+### 📅 Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnantSaxena11/AnantSaxena11/main/metrics-isocalendar.svg" alt="Isometric Contribution Calendar" />
+</div>
+
 
 ### 🤝 Let's Connect!
 
